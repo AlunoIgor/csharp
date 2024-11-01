@@ -53,7 +53,7 @@ public interface IVeiculo
 }
 
 // Delegates
-public void Delegates Processar (int numero);
+public void delegate Processar (int numero);
 
 // Nullable Types
 int? idade = null;
